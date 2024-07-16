@@ -5,15 +5,15 @@ Welcome to the **Elections Ad Spending Analysis with Python** project! If you're
 ## Table of Contents
 
 - [Dataset Overview](#dataset-overview)
-- [Analysis](#analysis)
-  - [Total Ad Spend by State](#total-ad-spend-by-state)
-  - [Average Voter Turnout by State](#average-voter-turnout-by-state)
-  - [Top 5 Parties by Ad Spend](#top-5-parties-by-ad-spend)
-  - [Correlation Between Ad Spend and Voter Turnout](#correlation-between-ad-spend-and-voter-turnout)
-  - [Ad Spend vs. Voter Turnout by Parliamentary Constituency](#ad-spend-vs-voter-turnout-by-parliamentary-constituency)
-  - [Distribution of Ad Spending](#distribution-of-ad-spending)
-  - [Ad Spending and Voter Turnout by Election Phase](#ad-spending-and-voter-turnout-by-election-phase)
-- [Conclusion](#conclusion)
+- [Analysis]
+  - [Total Ad Spend by State]
+  - [Average Voter Turnout by State]
+  - [Top 5 Parties by Ad Spend]
+  - [Correlation Between Ad Spend and Voter Turnout]
+  - [Ad Spend vs. Voter Turnout by Parliamentary Constituency]
+  - [Distribution of Ad Spending]
+  - [Ad Spending and Voter Turnout by Election Phase]
+- [Conclusion]
 
 ## Dataset Overview
 
@@ -24,4 +24,6 @@ The dataset used for this analysis consists of three files:
 3. **Results Dataset**: Provides actual voting data, showing how many people voted in each area and the percentage of voter turnout.
 
 You can download the dataset from [here](#).
+
+
 
